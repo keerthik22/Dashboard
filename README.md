@@ -1,4 +1,5 @@
 Dashboard 
+
 Explanation of the Approach:
 
 The approach to the project involves several key steps to ensure it meets the requirements while being efficient and scalable.
